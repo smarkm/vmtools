@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE filesystem PUBLIC "-//NetBeans//DTD Filesystem 1.2//EN" "http://www.netbeans.org/dtds/filesystem-1_2.dtd">
+<filesystem>
+    <folder name="VisualVM">
+        <folder name="ExplorerPopupSelection">
+            <file name="org-visualvm-demoapplicationtype-AnagramAction.instance">
+                <attr name="displayName" bundlevalue="org.visualvm.demoapplicationtype.Bundle#VisualVM/ExplorerPopupSelection/org-visualvm-demoapplicationtype-AnagramAction.instance"/>
+                <attr name="position" intvalue="3000"/>
+            </file>
+        </folder>
+    </folder>
+</filesystem>

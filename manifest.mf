@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+AutoUpdate-Show-In-Client: true
+OpenIDE-Module: org.smark.vm.tools
+OpenIDE-Module-Install: org/smark/vm/tools/Installer.class
+OpenIDE-Module-Layer: org/smark/vm/tools/layer.xml
+OpenIDE-Module-Localizing-Bundle: org/smark/vm/tools/Bundle.properties
+OpenIDE-Module-Specification-Version: 1.0
+
